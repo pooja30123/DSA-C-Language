@@ -28,4 +28,4 @@ This repo will help you practice, revise, and prepare for technical interviews o
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/pooja30123/DSA-C-language.git
+   git clone https://github.com/pooja30123/DSA-CPP-Language.git
