@@ -1,6 +1,6 @@
-# 🧠 DSA in C Language
+# 🧠 DSA in C++ Language
 
-Welcome to **DSA in C Language** — a well-structured repository containing solutions to a variety of **Data Structures and Algorithms** problems using **C**.  
+Welcome to **DSA in C++ Language** — a well-structured repository containing solutions to a variety of **Data Structures and Algorithms** problems using **C++**.  
 This repo will help you practice, revise, and prepare for technical interviews or coding tests.
 
 ---
